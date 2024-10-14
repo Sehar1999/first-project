@@ -1,8 +1,18 @@
+<<<<<<< Updated upstream
 our first git hub project.
+=======
+
+our first git hub project.
+
+>>>>>>> Stashed changes
 line 1 test
 line 2 test
 line 3 test
 line 4 test
 new line 5 test
 
+<<<<<<< Updated upstream
 new line 6 test
+=======
+new line 78 
+>>>>>>> Stashed changes
